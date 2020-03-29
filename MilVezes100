@@ -1,0 +1,11 @@
+public class MilvezesCem
+{
+       public static void main(String Args[])
+    {
+           for(int c=1; c<=1000; c++)
+          {
+               System.out.println(" 100 ");
+               System.out.println(c + " vezes");
+          }
+    }
+}          
